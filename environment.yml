@@ -1,0 +1,4 @@
+name: minimal_dbus_qt_example
+
+dependencies:
+  - qt ==5.15.9
